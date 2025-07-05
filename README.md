@@ -5,7 +5,7 @@
 
 You can connect with me on various social media platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/zayoud-ahmad/)
+- [LinkedIn]([https://www.linkedin.com/in/zayoud-ahmad/](https://www.linkedin.com/in/zayoud-ahmed/))
 - Email: [zayoud.ahmed@gmail.com]
 
 Feel free to reach out!
