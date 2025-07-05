@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Zayoud</h1>
-<h3 align="center">A driven software engineer with a passion for problem-solving and innovation. Strong analytical thinker with excellent communication and teamwork abilities. Quick learner who thrives in dynamic environments. Currently enrolled in a software engineering program where I'm enhancing my skills and knowledge.</h3>
+<h3 align="center">A driven software engineer with a passion for problem-solving and innovation. Strong analytical thinker with excellent communication and teamwork abilities. Quick learner who thrives in dynamic environments.</h3>
 
 ## Connect with Me
 
